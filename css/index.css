@@ -1,0 +1,87 @@
+nav{
+    display: flex;
+    margin-top: 35px;
+}
+.nav-items{
+    display: flex;
+    gap: 40px;
+    margin: auto;
+    
+}
+nav img{
+    margin-left: 7%;
+}
+.signin-btn{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding: 5px 30px;
+    font-size: 15px;
+    margin-right: 11%;
+    border: none;
+    border-radius: 30px;
+    background:linear-gradient(to right, #9900ff 0%, #fd75b9 100%) ;
+    color: white;
+    font-family: Roboto ;
+    
+}
+.nav-item{
+    font-family: Roboto;
+    font-size: 15px;
+}
+.intro-section{
+    display: flex;
+}
+.left-section{
+    margin-left: 7%;
+    margin-top: 5%;
+}
+h1{
+    font-family: Roboto;
+    font-weight: 800;
+    font-size: 80px;
+    color: #251f66;
+    width: 500px;
+}
+h4{
+    font-family: Roboto;
+    width: 300px;
+    color: rgb(171, 172, 172);
+    font-weight:50;    
+}
+.imgs-div img{
+    position: absolute;
+    left: 55%;
+}
+.learn-more-btn{
+    background:linear-gradient(to right, #9900ff 0%, #fd75b9 100%);
+    border: none;
+    border-radius: 25px;
+    color: white;
+    padding: 15px 50px;
+    font-family: Roboto;
+    font-weight: 900;
+    font-size: 20px;
+    margin-top: 50px;
+    margin-left: 10px;
+}
+div img:first-child{
+    top: 70%;
+}
+div img:nth-child(2){
+    width: 20px;
+    top: 71%;
+    left: 58.5%;
+}
+div img:nth-child(3){
+
+    width: 46%;
+    top: -3%;
+    left: 54%;
+}
+div img:last-child{
+    width: 42%;
+}
+.nav-item:hover{
+    cursor: pointer;
+    color: #b35c87;
+}
