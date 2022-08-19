@@ -1,4 +1,4 @@
-# Crypto Home Page
+# Webdesign home page
 
 ## Hi there, This is `Swadhin Dhara` <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
@@ -12,16 +12,16 @@
 </span>
 
 ## How website looks like
-<img src ="https://github.com/Swadhindhara/web_design_lamdimg_page_project--8/blob/main/Final%20output.png"/>
+<img src =""/>
 
 ## What I have learned in this project?
 - I have learned about background image positioning
-- I have learned about button styling
+- I have learned about positioning of discount content
 - I have learned about z-index
 - Learnt transitioning properties and animation
 
 
-## This project took around 2.5 hours to complete .
+## This project took around 2 hours to complete .
 
 ## Connect Me
 
